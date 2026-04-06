@@ -10,4 +10,4 @@ About- Created "TABLES" to better understand each county's bike store sales in t
 --------------
 
 # Excel- Formulas 
-# Data name- Excel_formula_1
+# Data name- Formula Excel.xlsx
